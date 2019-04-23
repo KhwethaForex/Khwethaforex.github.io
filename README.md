@@ -1,2 +1,2 @@
-# Khwethaforex.github.io
+# Khwethaforex.github.com
 GitHub Pages
