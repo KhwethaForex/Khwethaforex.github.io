@@ -2105,6 +2105,33 @@ body {
 .cid-roaxFX6UQ4 DIV {
   color: #7f1933;
 }
+.cid-roDKHiWgE4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/line-colorful-obliquely-background-61772-1920x1080-1920x1080.jpg");
+}
+.cid-roDKHiWgE4 .title {
+  margin-bottom: 2rem;
+}
+.cid-roDKHiWgE4 .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-roDKHiWgE4 a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-roDKHiWgE4 a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-roDKHiWgE4 textarea.form-control {
+  min-height: 188px;
+}
+.cid-roDKHiWgE4 H2 {
+  color: #ffffff;
+}
+.cid-roDKHiWgE4 LABEL {
+  color: #ffffff;
+}
 .cid-roaf5P7Wzz {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2162,95 +2189,6 @@ body {
   }
 }
 .cid-roaf5P7Wzz H2 {
-  color: #ffffff;
-}
-.cid-roapIQZU2w {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/wp2116604-forex-wallpapers-1920x1080.jpg");
-}
-.cid-roapIQZU2w .mbr-media span {
-  font-size: 48px;
-  cursor: pointer;
-  background-color: #ffffff;
-  border-radius: 50%;
-  width: 6rem;
-  height: 6rem;
-  line-height: 6rem;
-  position: relative;
-  display: inline-block;
-  transition: all 0.25s;
-  color: #353535;
-}
-.cid-roapIQZU2w .mbr-media span.mbri-play:before {
-  position: absolute;
-  left: 50%;
-  -webkit-transform: translateX(-35%);
-  -moz-transform: translateX(-35%);
-  -ms-transform: translateX(-35%);
-  -o-transform: translateX(-35%);
-  transform: translateX(-35%);
-}
-.cid-roapIQZU2w .modalWindow {
-  position: fixed;
-  z-index: 5000;
-  left: 0;
-  top: 0;
-  background-color: rgba(61, 61, 61, 0.65);
-  width: 100%;
-  height: 100%;
-}
-.cid-roapIQZU2w .modalWindow .modalWindow-container {
-  display: table-cell;
-  vertical-align: middle;
-}
-.cid-roapIQZU2w .modalWindow .modalWindow-video {
-  height: calc(44.9943757vw);
-  width: 80vw;
-  margin: 0 auto;
-}
-.cid-roapIQZU2w a.close {
-  position: absolute;
-  right: 4vw;
-  top: 4vh;
-  color: #ffffff;
-  z-index: 5000000;
-  font-size: 37px;
-  background: #000;
-  padding: 20px;
-  border-radius: 50%;
-}
-.cid-roapIQZU2w a.close:hover {
-  color: #ffffff;
-}
-.cid-roapIQZU2w H1 {
-  color: #ffffff;
-}
-.cid-roagE5BWre {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/line-colorful-obliquely-background-61772-1920x1080-1920x1080.jpg");
-}
-.cid-roagE5BWre .title {
-  margin-bottom: 2rem;
-}
-.cid-roagE5BWre .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-roagE5BWre a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-roagE5BWre a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-roagE5BWre textarea.form-control {
-  min-height: 188px;
-}
-.cid-roagE5BWre H2 {
-  color: #ffffff;
-}
-.cid-roagE5BWre LABEL {
   color: #ffffff;
 }
 .cid-rolOFdyyoq {
